@@ -1,0 +1,22 @@
+
+                 table{
+                     background: palegoldenrod;
+                     padding:10px;
+                 }
+                 table tr th{
+                     border:1px solid black;
+                     text-align: center;
+                     height:50px;
+                     background: rosybrown;
+                     width:200px;
+                 }
+                 table tr td{
+                     border:1px solid black;
+                      text-align: center;
+                      height:40px;
+                      background: azure;
+                      width:200px;
+                 }
+                 input{
+                     height:30px;
+                 }
